@@ -1,0 +1,44 @@
+<html>
+body{
+background-image: url(paul.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+background-attachment: fixed;
+}
+p.head{
+	color: rgba(5 0, 0, 0.884);
+	font-size:2em;
+	font-family: Tempus Sans ITC;
+	text-align:center;
+	top: 10em;
+	}
+p.headtwo{
+	color:rdt
+	font-size:1.2em;
+	text-align:center;
+	top: 10em
+	}
+p.h{
+	color: rgb(211, 50, 50);
+	font-size:1em;
+	text-align:left;
+	text-decoration: underline;
+	margin-left: 2em;
+	}
+p.hp{
+	color: rgb(16, 190, 83);
+	font-size:1em;
+	text-align:left;
+	margin-left: 2em;
+	}
+td,th{
+	color: grey;
+	background: rgb(255, 255, 255);
+	background: rgba(19, 10, 10, 0.986);
+	border-radius:4em;
+	text-align: center;
+}
+div.tble{
+	left: 5em;
+}
